@@ -6,7 +6,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-95%25-green)
 
-##Project Overview
+## Project Overview
 
 CyberGuard: Intelligent Web Threat Analysis & Defense Platform
 CyberGuard is a production-grade Multi-Agent Cybersecurity AI System designed to analyze websites, APIs, and web applications for security vulnerabilities. The system combines advanced AI techniques with traditional security scanning to provide comprehensive threat detection and prevention.
@@ -34,13 +34,13 @@ Sensitive Data Exposure
 
 ### Key Features
 
-- ** Multi-Agent AI System**: 10 specialized security agents working in concert
-- ** Advanced AI Architecture**: Grouped Query Attention (GQA) with Flash Attention optimization
-- ** Comprehensive Scanning**: OWASP Top-10, API security, traffic analysis
-- ** Security Tutor Mode**: Teaches developers about vulnerabilities and fixes
-- ** Real-time Protection**: Website plugin, reverse proxy, and API middleware
-- ** Enterprise Dashboard**: Real-time monitoring and threat visualization
-- ** Zero-Trust Architecture**: Built with security-first principles
+- **Multi-Agent AI System**: 10 specialized security agents working in concert
+- **Advanced AI Architecture**: Grouped Query Attention (GQA) with Flash Attention optimization
+- **Comprehensive Scanning**: OWASP Top-10, API security, traffic analysis
+- **Security Tutor Mode**: Teaches developers about vulnerabilities and fixes
+- **Real-time Protection**: Website plugin, reverse proxy, and API middleware
+- **Enterprise Dashboard**: Real-time monitoring and threat visualization
+- **Zero-Trust Architecture**: Built with security-first principles
 
 ##  Table of Contents
 
